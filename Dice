@@ -1,0 +1,10 @@
+import random
+while True:
+    print(" 1. Roll the Dice                 2. Exit         ")
+    user = int(input("what you want to do\n"))
+    if user == 1:
+        number = random.randint(1,6)
+        print("you rolled a "+ str(number))
+    elif user == 2:
+         break
+    else: print("Not a valid selection")
