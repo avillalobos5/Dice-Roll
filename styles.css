@@ -1,6 +1,6 @@
 .dice {
-    background-color: green;
-    height: 50rem;
-    width: 50rem;
-    border: red solid;
+    background-color: rgb(227, 240, 227);
+    height: 5rem;
+    width: 5rem;
+    border: rgb(5, 1, 1) solid;
 }
